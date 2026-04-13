@@ -75,11 +75,9 @@
 ---
 
 ## 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderngaonger&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=coderngaonger&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
 </p>
-
 ---
 
 
