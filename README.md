@@ -82,18 +82,27 @@
 
 ---
 
+
 ## ⭐ Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/coderngaonger/CAP1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=CAP1&theme=nord&hide_border=true&show_owner=true" />
+  <img align="center" src="https://gh-card.dev/repos/coderngaonger/CAP1.svg?fullname=true" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/coderngaonger/Smart-enrollment-chatbotAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Smart-enrollment-chatbotAI&theme=nord&hide_border=true&show_owner=true" />
+  <img align="center" src="https://gh-card.dev/repos/coderngaonger/Smart-enrollment-chatbotAI.svg?fullname=true" />
 </a>
 
+</p>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/coderngaonger/Realtime_object_dectection_warning_system">
+  <img align="center" src="https://gh-card.dev/repos/coderngaonger/Realtime_object_dectection_warning_system.svg?fullname=true" />
+</a>
 </p>
 
 <br/>
