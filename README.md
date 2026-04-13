@@ -77,7 +77,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderngaonger&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coderngaonger&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
@@ -85,21 +85,21 @@
 ## ⭐ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/coderngaonger/CAP1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=CAP1&theme=nord&hide_border=true&description_lines_count=2" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/coderngaonger/Smart-enrollment-chatbotAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Smart-enrollment-chatbotAI&theme=nord&hide_border=true&description_lines_count=2" />
-  </a>
+
+<a href="https://github.com/coderngaonger/CAP1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=CAP1&theme=nord&hide_border=true&show_owner=true" />
+</a>
+
+<a href="https://github.com/coderngaonger/Smart-enrollment-chatbotAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Smart-enrollment-chatbotAI&theme=nord&hide_border=true&show_owner=true" />
+</a>
+
 </p>
+
+<br/>
 
 <p align="center">
-  <a href="https://github.com/coderngaonger/Realtime_object_dectection_warning_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Realtime_object_dectection_warning_system&theme=nord&hide_border=true&description_lines_count=2" />
-  </a>
+<a href="https://github.com/coderngaonger/Realtime_object_dectection_warning_system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coderngaonger&repo=Realtime_object_dectection_warning_system&theme=nord&hide_border=true&show_owner=true" />
+</a>
 </p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:A7D8FF,50:D6F0FF,100:A7D8FF" />
